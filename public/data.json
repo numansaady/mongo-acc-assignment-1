@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "gender": "male",
+    "name": "Sadik",
+    "contact": 123456,
+    "address": "Sylhet",
+    "photoUrl": "/public/images/img1.jpg"
+  },
+  {
+    "Id": 2,
+    "gender": "male",
+    "name": "Nadim",
+    "contact": 123456,
+    "address": "Dhaka",
+    "photoUrl": "/public/images/img1.jpg"
+  },
+  {
+    "Id": 3,
+    "gender": "male",
+    "name": "Rafik",
+    "contact": 123456,
+    "address": "Khulna",
+    "photoUrl": "/public/images/img1.jpg"
+  },
+  {
+    "Id": 4,
+    "gender": "male",
+    "name": "Shofik",
+    "contact": 123456,
+    "address": "Borishal",
+    "photoUrl": "/public/images/img1.jpg"
+  },
+  {
+    "Id": 5,
+    "gender": "male",
+    "name": "Labib",
+    "contact": 123456,
+    "address": "Chittagong",
+    "photoUrl": "/public/images/img1.jpg"
+  }
+]
